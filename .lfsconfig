@@ -1,2 +1,2 @@
 [lfs]
-	url = http://127.0.0.1:8081/repository/testGit/info/lfs
+	url = http://localhost:8081/repository/testGit/info/lfs
